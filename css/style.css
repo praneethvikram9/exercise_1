@@ -1,0 +1,44 @@
+body
+{
+	background:rgb(228,222,222);
+}
+ .first
+{
+	margin:auto;
+	width:600px;
+
+}
+
+#new
+{
+	margin:auto;
+	width:500px;
+}
+
+#second
+{
+	margin:auto;
+	width:600px;
+}
+#third
+{
+	margin:auto;
+	width:400px;
+}
+
+#box1
+{
+  border : 3px solid white;
+  width:400px;
+  height:15px;
+  padding :10px;
+  text-align:center;
+}
+#box2
+{
+  border : 3px solid white;
+  padding:10px;
+  width:400px;
+  height:15px;
+  text-align :center;
+}
